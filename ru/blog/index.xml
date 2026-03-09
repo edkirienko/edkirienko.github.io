@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://edkirienko.github.io/ru/blog/</link>
+      <atom:link href="https://edkirienko.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://edkirienko.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://edkirienko.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Учебная неделя в университете</title>
+      <link>https://edkirienko.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://edkirienko.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе в университете было много новых тем и практических заданий. Каждое занятие помогло лучше понять, как информационные технологии применяются в современном бизнесе.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; я продолжила изучать основы разработки и потренировалась решать небольшие практические задачи. Это помогло лучше понять структуру программ и логику кода.&lt;/li&gt;
+&lt;li&gt;📊 На лекциях по &lt;strong&gt;анализу данных&lt;/strong&gt; мы говорили о том, как компании используют данные для принятия решений. Эта тема показалась мне особенно интересной.&lt;/li&gt;
+&lt;li&gt;📚 В рамках курса по &lt;strong&gt;информационным системам&lt;/strong&gt; мы обсуждали роль IT-решений в управлении организациями и автоматизации бизнес-процессов.&lt;/li&gt;
+&lt;li&gt;🧠 Также уделила время самостоятельной работе: повторила конспекты, разобрала сложные темы и подготовилась к следующим занятиям.&lt;/li&gt;
+&lt;li&gt;🤝 Работали над учебными заданиями, где важно было не только знание теории, но и умение обсуждать решения и обмениваться идеями.&lt;/li&gt;
+&lt;li&gt;🌿 В конце недели постаралась немного отдохнуть, чтобы восстановить силы перед следующими учебными днями.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Учёба на направлении &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; показывает, насколько тесно связаны технологии и бизнес. Каждая неделя приносит новые знания и помогает лучше понять, в каком направлении хочется развиваться дальше.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
