@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | </title>
+    <link>https://edkirienko.github.io/ru/tags/latex/</link>
+      <atom:link href="https://edkirienko.github.io/ru/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://edkirienko.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>LaTeX</title>
+      <link>https://edkirienko.github.io/ru/tags/latex/</link>
+    </image>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://edkirienko.github.io/ru/publications/02/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://edkirienko.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-языки-разметки-latex&#34;&gt;📘 Языки разметки. LaTeX&lt;/h2&gt;
+&lt;p&gt;В современном образовательном и профессиональном пространстве важную роль играют &lt;strong&gt;языки разметки&lt;/strong&gt;. Они позволяют не просто вводить текст, а логически структурировать его, задавать оформление, выделять заголовки, формулы, списки, таблицы и другие элементы документа.&lt;/p&gt;
+&lt;p&gt;Одним из самых известных инструментов в этой области является &lt;strong&gt;LaTeX&lt;/strong&gt; — система компьютерной вёрстки, которая особенно широко используется в научной и учебной среде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ &lt;strong&gt;Языки разметки&lt;/strong&gt; помогают отделить содержание документа от его внешнего оформления. Это делает текст более структурированным, удобным для редактирования и дальнейшего использования.&lt;/li&gt;
+&lt;li&gt;📐 &lt;strong&gt;LaTeX&lt;/strong&gt; особенно полезен при работе с формулами, графиками, таблицами и большими документами, где важно соблюдать единый стиль оформления.&lt;/li&gt;
+&lt;li&gt;📚 Этот инструмент активно применяется при подготовке &lt;strong&gt;рефератов, курсовых работ, научных статей, дипломов и презентационных материалов&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;💡 Одним из главных преимуществ LaTeX является высокое качество итогового документа. Он позволяет создавать аккуратно оформленные тексты, которые выглядят профессионально и строго.&lt;/li&gt;
+&lt;li&gt;🧠 Работа с LaTeX развивает внимательность к структуре текста и понимание того, как правильно организовать материал в документе.&lt;/li&gt;
+&lt;li&gt;💻 Несмотря на то, что в начале синтаксис может показаться непривычным, со временем становится понятно, что такой подход значительно упрощает оформление сложных текстов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение &lt;strong&gt;LaTeX&lt;/strong&gt; показывает, что грамотное представление информации не менее важно, чем её содержание. Особенно это актуально в академической среде, где ценятся точность, логичность и аккуратность оформления.&lt;/p&gt;
+&lt;p&gt;Освоение языков разметки помогает не только в учёбе, но и в будущей профессиональной деятельности, где умение качественно подготавливать документацию становится важным преимуществом.&lt;/p&gt;
+&lt;p&gt;А вы уже пробовали работать с LaTeX? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
